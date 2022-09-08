@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+  <html lang="pl-PL>
+  <html>
+      <head>
+	    <meta charset="utf-8">
+	   <title> Kinga Kocon 1P </title>
+      </head>
+      <body>
+<p align="right"> <font color="blue" size="1" face=Arial"> Kinga </font> </p> <br>
+<p align="right"> <font color="blue" size="2" face=Arial"> Kinga </font> </p> <br>
+<p align="right"> <font color="blue" size="3" face=Arial"> Kinga </font> </p> <br>
+<p align="right"> <font color="blue" size="4" face=Arial"> Kinga </font> </p> <br>
+<p align="right"> <font color="blue" size="5" face=Arial"> Kinga </font> </p> <br>
+<p align="right"> <font color="blue" size="6" face=Arial"> Kinga </font> </p> <br>
+<p align="right"> <font color="blue" size="7" face=Arial"> Kinga </font> </p> <br>
+<h1> Kocon </h6><br>
+<h2> Kocon </h5><br>
+<h3> Kocon </h4><br>
+<h4> Kocon </h3><br>
+<h5> Kocon </h2><br>
+<h6> Kocon </h1><br>
+<p align="left"> <font color="blue" size="3" face="Times New Roman"> :( smutek </font> </p> <br>
+<p align="left"> <font color="red" size="3" face="Times New Roman"> >:( złość </font> </p> <br>
+<p align="left"> <font color="green" size="3" face="Times New Roman"> :) radość </font> </p> <br>
+<p align="left"> <font color="yellow" size="3" face="Times New Roman"> :,( płacz </font> </p> <br>
+<p align="left"> <font color="purple" size="3" face="Times New Roman"> :0 zdziwienie </font> </p> <br>
+<p align="left"> <font color="pink" size="3" face="Times New Roman"> :c duży smutek </font> </p> <br>
+      </body>
+</html>
